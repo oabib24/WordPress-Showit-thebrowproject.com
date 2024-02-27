@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "The Brow Project",
+  "image": "https://thebrowproject.com/wp-content/uploads/sites/40055/2023/09/dsc01774.jpg",
+  "@id": "",
+  "url": "https://thebrowproject.com/",
+  "telephone": "214-334-5232",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1904 S.Harwood Street",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75215",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7725901,
+    "longitude": -96.78351959999999
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "sameAs": [
+    "https://www.facebook.com/thebrowproject",
+    "https://www.instagram.com/thebrowproject_/",
+    "https://thebrowproject.com/services"
+  ] 
+}
